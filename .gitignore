@@ -1,2 +1,5 @@
-command_example.sh
+__pycache__
+.DS_Store
+translate
 *.env
+command_example.sh
